@@ -1,0 +1,31 @@
+ @font-face {
+    font-family: Pompadur; /* Имя шрифта */
+    src: url('...fonts/BLESD.ttf'); /* Путь к файлу со шрифтом */
+   }
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('.../fonts/OpenSans-light/opensans-light-webfont.eot');
+    src: url('.../fonts/OpenSans-light/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('.../fonts/OpenSans-light/opensans-light-webfont.woff2') format('woff2'),
+         url('.../fonts/OpenSans-light/opensans-light-webfont.woff') format('woff'),
+         url('.../fonts/OpenSans-light/opensans-light-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'OpenSans Regular';
+    src: url('.../fonts/OpenSans-Regular/opensans-regular-webfont-webfont.eot');
+    src: url('.../fonts/OpenSans-Regularopensans-regular-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('.../fonts/OpenSans-Regularopensans-regular-webfont-webfont.woff2') format('woff2'),
+         url('.../fonts/OpenSans-Regularopensans-regular-webfont-webfont.woff') format('woff'),
+         url('.../fonts/OpenSans-Regularopensans-regular-webfont-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

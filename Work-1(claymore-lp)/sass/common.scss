@@ -1,0 +1,17 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: 'OpenSans', 'sans-serif';
+	font-weight: 400;	
+
+}
+
+.cf::after{
+	content:'';
+	display: block;
+	clear:both;
+	visibility: hidden;
+}
